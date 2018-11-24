@@ -1,2 +1,4 @@
 *.jsonl
 output/*
+download/*
+data/*
