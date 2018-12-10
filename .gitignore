@@ -1,4 +1,7 @@
 *.jsonl
 output/*
 download/*
-data/*
+data/02_processed_csvs/*
+data/03_combined/*
+data/04_rshiny/df_total_cases.csv
+data/04_rshiny/df_cases.csv
